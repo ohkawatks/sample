@@ -1,3 +1,5 @@
+// copied from http://systembash.com/content/a-simple-java-udp-server-and-udp-client/
+
 package udp;
 
 import java.net.DatagramPacket;
